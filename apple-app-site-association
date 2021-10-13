@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "ZC869D3D9T.ae.propertyfinder.propertyfinder",
+        "paths": [
+          "/*/search",
+          "/*/user/saved-properties",
+          "/*/user",
+          "/navigate/web",
+          "/*/to/*"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "ZC869D3D9T.ae.propertyfinder.propertyfinder"
+    ]
+  }
+}
